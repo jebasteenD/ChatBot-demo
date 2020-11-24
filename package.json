@@ -1,0 +1,17 @@
+{
+  "name": "chatbotdemo01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jebasteen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ibm-watson": "^5.7.1",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
